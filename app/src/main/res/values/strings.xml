@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="hintNameET">Введите Ваше имя</string>
+
+    <string name="textStartBTN">Начать</string>
+    <string name="textQuestionFirstTV">Программа белого движения в годы гражданской войны предусматривала:</string>
+    <string name="textAnswerFirstOne">Развитие коллективных форм труда и потребления</string>
+    <string name="textAnswerFirstTwo">Восстановление могущественной единой и неделимой России</string>
+    <string name="textAnswerFirstThree">Передачу власти Советам без коммунистов</string>
+
+    <string name="textQuestionSecondTV">Дальнейшее продолжение политики «военного коммунизма» в мирных условиях привело бы:
+</string>
+    <string name="textAnswerSecondOne">К выходу из экономического кризиса</string>
+    <string name="textAnswerSecondTwo">К укреплению диктатуры пролетариата</string>
+    <string name="textAnswerSecondThree">К крушению коммунистического режима</string>
+
+    <string name="textQuestionThirdTV">Новая экономическая политика проводилась с:
+</string>
+    <string name="textAnswerThirdOne">1921–1936</string>
+    <string name="textAnswerThirdTwo">1918–1921</string>
+    <string name="textAnswerThirdThree">1921–1928</string>
+
+    <string name="textQuestionFourthTV">Программа белого движения в годы гражданской войны предусматривала:
+</string>
+    <string name="textAnswerFourthOne">Восстановление могущественной единой и неделимой России</string>
+    <string name="textAnswerFourthTwo">Развитие коллективных форм труда и потребления</string>
+    <string name="textAnswerFourthThree">Передачу власти Советам без коммунистов</string>
+
+    <string name="textQuestionFifthTV">Большевики считали экономической основой грядущего бестоварного социализма:
+</string>
+    <string name="textAnswerFifthOne">Представительное правление и разделение властей</string>
+    <string name="textAnswerFifthTwo">Общественную собственность на средства производства</string>
+    <string name="textAnswerFifthThree">Диктатуру пролетариата</string>
+
+    <string name="result0">У Вас полное незнание истории Отечества!</string>
+    <string name="result100">Скорее всего Вы где-то попали наугад))</string>
+    <string name="result200">Еще бы один верный ответ и поставил бы тройку</string>
+    <string name="result300">У Вас твердая тройка</string>
+    <string name="result400">У вас хорошее знание истории Отечества</string>
+    <string name="result500">Учитель, это Вы?</string>
+    <string name="textResultTV">Результат</string>
+    <string name="textResultPointsTV">У Вас 0 очков</string>
+
+</resources>
