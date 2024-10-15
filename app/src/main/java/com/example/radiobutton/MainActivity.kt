@@ -13,7 +13,6 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var nameET: EditText
     private lateinit var startBTN: Button
 
     @SuppressLint("MissingInflatedId")
